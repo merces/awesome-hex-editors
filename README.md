@@ -1,4 +1,5 @@
 # awesome-hex-editors
+
 A curated and enriched list of awesome hexadecimal editors for multiple operating systems
 
 ## Hex Editors
@@ -10,9 +11,11 @@ All programs listed bellow have the basic capabilities expected from an hex edit
 | [\[N\] Curses Hexedit](https://www.rogoyski.com/adam/programs/hexedit/)                 | `calculator`                                                                                                                | 🐧       | TUI       | GPL-2.0      | 🇺🇸     | Aug 1998  | 🧊     |
 | [010 Editor](https://www.sweetscape.com/010editor/)                                     | `bookmarks` `calculator` `data-inspector` `diffing` `disassembly` `multi-file` `plugins` `projects` `scripting` `templates` | 🪟🐧🍎   | GUI       | Commercial   | 🇨🇦     | Sep 2003  | 🚀     |
 | [bvi](https://bvi.sourceforge.net)                                                      | `multi-file` `vim-like`                                                                                                     | 🐧🍎     | TUI       | GPL          | 🇦🇹     | Jan 2001  | 🚀     |
+| [dhex](https://www.dettus.net/dhex/)                                                    | not analyzed yet                                                                                                            | 🐧🍎     | TUI       | GPL-2.0      | 🇩🇪     | Mar 2004  | 🧊     |
 | [dz6](https://github.com/mentebinaria/dz6)                                              | `bookmarks` `calculator` `comments` `themes` `vim-like`                                                                     | 🪟🐧🍎   | TUI       | GPL-3.0      | 🇧🇷     | Nov 2025  | 🚀     |
 | [fhex](https://github.com/echo-devim/fhex)                                              | `data-inspector` `diffing` `disassembly` `templates`                                                                        | 🪟🐧🍎   | GUI       | GPL-3.0      | 🇮🇹     | Oct 2019  | 🚀     |
 | [FileInsight](https://downloadcenter.trellix.com/products/mcafee-avert/fileinsight.msi) | not analyzed yet                                                                                                            | 🪟       | GUI       | Freeware     | 🇺🇸     | ?         | 🧊     |
+| [GHex](https://gitlab.gnome.org/GNOME/ghex)                                             | not analyzed yet                                                                                                            | 🐧       | GUI       | GPL-2.0      | 🇸🇮     | Jun 1998  | 🚀     |
 | [GNU poke](https://www.jemarch.net/poke)                                                | `calculator` `data-inspector` `multi-file` `repl` `scripting`                                                               | 🐧🍎     | CLI/TUI   | GPL-3.0      | 🇪🇸     | Feb 2021  | 🚀     |
 | [Helium Hex Editor](http://jacquelin.potier.free.fr/HeliumHexEditor/)                   | not analyzed yet                                                                                                            | 🪟       | GUI       | Commercial   | 🇫🇷     | Apr 2019  | 🚀     |
 | [Hex Workshop](http://www.hexworkshop.com)                                              | `bookmarks` `calculator` `data-inspector` `diffing` `multi-file` `plugins` `scripting` `templates`                          | 🪟       | GUI       | Commercial   | 🇺🇸     | May 1995  | 🧊     |
@@ -24,7 +27,7 @@ All programs listed bellow have the basic capabilities expected from an hex edit
 | [hextazy](https://github.com/0xfalafel/hextazy)                                         | `data-inspector` `vim-like`                                                                                                 | 🪟🐧🍎   | TUI       | MIT          | ?      | Jul 2024  | 🚀     |
 | [HexWalk](https://www.hexwalk.com)                                                      | `data-inspector` `diffing` `templates`                                                                                      | 🪟🐧🍎   | GUI       | GPL-3.0      | 🇮🇹     | May 2023  | 🚀     |
 | [hexxed](https://hexed.it)                                                              | `data-inspector`                                                                                                            | 🌐       | Web       | Freeware     | 🇩🇪     | Jul 2014  | 🚀     |
-| [Hiew](https://hiew.io)                                                                 | `bookmarks` `calculator` `comments` `diffing` `disassembly` `executable-aware` `macros` `multi-file` `plugins` `themes`     | 🪟       | GUI       | Commercial   | 🇷🇺     | ~1991     | 🚀     |
+| [Hiew](https://hiew.io)                                                                 | `bookmarks` `calculator` `comments` `diffing` `disassembly` `executable-aware` `macros` `multi-file` `plugins` `themes`     | 🪟       | TUI       | Commercial   | 🇷🇺     | ~1991     | 🚀     |
 | [HT Editor](https://github.com/sebastianbiallas/ht)                                     | `calculator` `disassembly` `executable-aware` `projects`                                                                    | 🪟🐧🍎   | TUI       | GPLv2        | 🇩🇪     | Jan 2000  | 🧊     |
 | [HxD](https://mh-nexus.de/en/hxd/)                                                      | not analyzed yet                                                                                                            | 🪟       | GUI       | Freeware     | 🇩🇪     | ~2004     | 🧊     |
 | [Hyx](https://github.com/flipvrijn/Hyx-console-hex-editor)                              | `vim-like`                                                                                                                  | 🐧🍎     | TUI       | MIT          | 🇩🇪     | Jan 2017  | 🧊     |
@@ -89,4 +92,3 @@ This is a set of tags I came up with to quickly highlight interesting features f
 ## Contributing
 
 This list is of course not complete. There are hundreds (thousands?) of hex editors out there. If your editor of choice is missing, feel free to send a PR. Please fill in all columns to keep this file informative.
-
