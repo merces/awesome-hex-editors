@@ -1,3 +1,5 @@
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 # awesome-hex-editors
 
 A curated and enriched list of awesome hexadecimal editors for Windows, macOS, and Linux.
@@ -91,4 +93,4 @@ This is a set of tags I came up with to quickly highlight interesting features f
 
 ## Contributing
 
-This list is of course not complete. There are hundreds (thousands?) of hex editors out there. If your editor of choice is missing, feel free to send a PR. Please fill in all columns to keep this file informative.
+This list is of course not complete. There are hundreds (thousands?) of hex editors out there. If your awesome editor of choice is missing, feel free to send a PR. Please fill in all columns to keep this file informative.
