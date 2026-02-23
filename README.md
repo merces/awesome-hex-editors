@@ -1,6 +1,6 @@
 # awesome-hex-editors
 
-A curated and enriched list of awesome hexadecimal editors for multiple operating systems
+A curated and enriched list of awesome hexadecimal editors for Windows, macOS, and Linux.
 
 ## Hex Editors
 
@@ -21,7 +21,7 @@ All programs listed bellow have the basic capabilities expected from an hex edit
 | [Hex Workshop](http://www.hexworkshop.com)                                              | `bookmarks` `calculator` `data-inspector` `diffing` `multi-file` `plugins` `scripting` `templates`                          | 🪟       | GUI       | Commercial   | 🇺🇸     | May 1995  | 🧊     |
 | [hexedit](https://github.com/dcdeepesh/hexedit)                                         |                                                                                                                             | 🐧       | TUI       | Apache-2.0   | 🇮🇳     | Aug 2020  | 🚀     |
 | [Hexer](https://devel.ringlet.net/editors/hexer/)                                       | `calculator` `multi-file` `vim-like`                                                                                        | 🐧🍎     | TUI       | BSD-2-Clause | 🇩🇪     | Apr 2009  | 🚀     |
-| [HexFiend](https://hexfiend.com)                                                        | not analyzed yet                                                                                                            | 🍎       | GUI       | BSD-2-Clause | 🇺🇸     | ~Jul 2014 | 🚀     |
+| [HexFiend](https://hexfiend.com)                                                        | `bookmarks` `data-inspector` `data-inspector` `multi-file` `templates`                                                      | 🍎       | GUI       | BSD-2-Clause | 🇺🇸     | ~Jul 2014 | 🚀     |
 | [Hexinator](https://hexinator.com)                                                      | `data-inspector` `diffing` `scripting` `templates`                                                                          | 🪟🐧     | GUI       | Commercial   | 🇺🇸     | ~2009     | 🚀     |
 | [HexPatch](https://github.com/Etto48/HexPatch)                                          | `comments` `disassembly` `scripting`                                                                                        | 🪟🐧🍎   | TUI       | MIT          | 🇮🇹     | Apr 2024  | 🚀     |
 | [hextazy](https://github.com/0xfalafel/hextazy)                                         | `data-inspector` `vim-like`                                                                                                 | 🪟🐧🍎   | TUI       | MIT          | ?      | Jul 2024  | 🚀     |
